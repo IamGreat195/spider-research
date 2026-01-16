@@ -28,6 +28,8 @@ spider-research/
 ### Setup
 
 ```bash
-git clone [https://   ](https://github.com/IamGreat195/spider-research.git
+git clone https://github.com/IamGreat195/spider-research.git
 cd spider-research
 pip install -r requirements.txt
+
+

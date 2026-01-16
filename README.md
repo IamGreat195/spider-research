@@ -5,7 +5,8 @@ This repository contains implementations of different version of Reinforcement L
 The detailed research write up and model .pt files are also presented.
 
 ## Repository Structure
-rl-carracing-challenge/
+'''
+spider-research/
 │
 ├── README.md                          # This file
 ├── requirements.txt                   # Python dependencies
@@ -21,3 +22,4 @@ rl-carracing-challenge/
 │   └── Q_learning.ipynb           # Q learning
 │
 └── results/                      # plotted graphs
+'''

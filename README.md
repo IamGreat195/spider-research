@@ -5,8 +5,8 @@ This repository contains implementations of different version of Reinforcement L
 The detailed research write up and model .pt files are also presented.
 
 ## Repository Structure
-'''
-spider-research/
+
+```spider-research/
 │
 ├── README.md                          # This file
 ├── requirements.txt                   # Python dependencies
@@ -22,4 +22,4 @@ spider-research/
 │   └── Q_learning.ipynb           # Q learning
 │
 └── results/                      # plotted graphs
-'''
+```

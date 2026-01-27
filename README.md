@@ -1,4 +1,4 @@
-# Spider Research
+# Reinforcement Learning
 
 This repository contains implementations of different version of Reinforcement Learning like Q learning, DQN and PPO to solve the CarRacing-V3 environment.
 
